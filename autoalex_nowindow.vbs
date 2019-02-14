@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run CreateObject("Scripting.FileSystemObject").GetParentFolderName(CreateObject("Scripting.FileSystemObject").GetFile(WScript.ScriptFullName))&"\autoalexrune.bat",0
